@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "SurfSense",
+			"path": "."
+		},
+		{
+			"name": "local backend",
+			"path": "surfsense_local/backend"
+		},
+		{
+			"name": "plugin CLI",
+			"path": "backend/plugins/bundles/core/cli"
+		},
+		{
+			"name": "plugin SDK",
+			"path": "backend/plugins/bundles/core/sdk"
+		},
+		{
+			"name": "plugin manifest rules",
+			"path": "backend/plugins/bundles/core/manifest"
+		}
+	],
+	"settings": {}
+}

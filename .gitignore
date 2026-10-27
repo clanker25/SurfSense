@@ -1,0 +1,16 @@
+.flashrank_cache*
+.env
+node_modules/
+.ruff_cache/
+.venv
+.pnpm-store
+.DS_Store
+debug.log
+
+references/
+references
+specs/
+
+content_research/
+automation-design-plan.md
+automation-frontend-builder-plan.md
